@@ -7,15 +7,15 @@ It reads from a file passed by parameter, and will be exporting contact data to 
 
 
 ## Features
-Shows the summary of the contact
+Shows the summary of the contact  
 ![](ss/contact.png)
 
-Allows to edit names, nicknames, phone numbers, email addresses, location addresses, birthday dates and categories
+Allows to edit names, nicknames, phone numbers, email addresses, location addresses, birthday dates and categories  
 ![](ss/options.png)
 
 It autoremoves duplicates in same contact and warns of duplicate values in others
-It's possible to add or remove fields in contacts
-It leaves a parsed file: ![](ss/raw.png)
+It's possible to add or remove fields in contacts, leaving a parsed file:  
+![](ss/raw.png)
 
 
 ## Version of files used
